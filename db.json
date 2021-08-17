@@ -1,8 +1,16 @@
 {
-  "trophy": [
+  "trophies": [
       {
           "id": 1,
           "rank": 1
-      }
+      },
+      {
+        "id": 2,
+        "rank": 2
+    },
+    {
+        "id": 3,
+        "rank": 3
+    }
   ]
 }
