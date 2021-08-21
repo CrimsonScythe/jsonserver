@@ -12,5 +12,11 @@
         "id": 3,
         "rank": 3
     }
+  ],
+  "rewards":[
+    {
+      "id":1,
+      "donation":10
+    }
   ]
 }
